@@ -5,36 +5,32 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Getting Started](#getting-started)
 - [SDK Examples](#sdk-examples)
 - [Articles, Blogs, etc](#articles-blogs-etc)
+- [Thanks!](#thanks)
+- [Contributing](#contribute)
+
+## Getting Started
+
+- [Develper.okta.com](https://developer.okta.com/docs/)
 
 ## SDK Examples
-- [Okta SDK python](https://github.com/okta/okta-sdk-python)
+
+- [Okta SDK Python](https://github.com/okta/okta-sdk-python)
 - [Okta SDK Dotnet](https://github.com/okta/okta-sdk-dotnet)
 - [Okta SDK Java](https://github.com/okta/okta-sdk-java)
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
 - [Okta SDK Php](https://github.com/okta/okta-sdk-php)
 
 ## Articles Blogs etc
-- [Oauth2 Simplified](https://aaronparecki.com/oauth-2-simplified/)
 
-## Section
+- [Oauth2 Simplified](https://aaronparecki.com/oauth-2-simplified/) Must read!
 
-About this section. Optional. Keep this short and focus on the list.
+## Thanks!
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Sindre Sorhus](https://github.com/sindresorhus) for creating [awesome-list](https://github.com/sindresorhus/awesome).
+- [Darshak Parikh](https://github.com/dar5hak) for creating [generator-awesome-list](https://www.npmjs.com/package/generator-awesome-list).
 
 ## Contribute
 
