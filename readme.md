@@ -6,7 +6,7 @@
 ## Contents
 
 - [Getting Started](#getting-started)
-- [SDK Examples](#sdk-examples)
+- [SDK and Samples](#sdk-and-samples)
 - [Articles, Blogs, etc](#articles-blogs-etc)
 - [Thanks!](#thanks)
 - [Contributing](#contribute)
@@ -15,7 +15,7 @@
 
 - [Develper.okta.com](https://developer.okta.com/docs/)
 
-## SDK Examples
+## SDK and Samples
 
 - [Okta SDK Python](https://github.com/okta/okta-sdk-python)
 - [Okta SDK Dotnet](https://github.com/okta/okta-sdk-dotnet)
