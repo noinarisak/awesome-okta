@@ -6,6 +6,7 @@
 ## Contents
 
 - [Getting Started](#getting-started)
+- [Tools](#tools)
 - [SDK and Samples](#sdk-and-samples)
 - [Articles, Blogs, etc](#articles-blogs-etc)
 - [Thanks!](#thanks)
@@ -14,6 +15,10 @@
 ## Getting Started
 
 - [Develper.okta.com](https://developer.okta.com/docs/)
+
+## Tools
+
+- [JSON Web Tokens Debugger](https://jwt.io) ## :heart: our friends at Auth0. :laughing:
 
 ## SDK and Samples
 
