@@ -18,11 +18,11 @@
 
 ## Tools
 
-- [JSON Web Tokens Debugger](https://jwt.io) ## :heart: our friends at Auth0. :laughing:
+- [JSON Web Tokens Debugger](https://jwt.io) :heart: our friends at Auth0. :laughing:
 
 ## SDK and Samples
 
-- [Okta SDK Python](https://github.com/okta/okta-sdk-python)## :warning: :construction: Alpha Preview :construction: :warning:
+- [Okta SDK Python](https://github.com/okta/okta-sdk-python) :warning: :construction: Alpha Preview :construction: :warning:
 - [Okta SDK Dotnet](https://github.com/okta/okta-sdk-dotnet)
 - [Okta SDK Java](https://github.com/okta/okta-sdk-java)
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
