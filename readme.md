@@ -31,6 +31,7 @@
 ## Articles Blogs etc
 
 - [Oauth2 Simplified](https://aaronparecki.com/oauth-2-simplified/) Must read!
+- [WebAuthN](https://www.okta.com/security-blog/2019/09/passwordless-authentication-where-to-start/) Introduction
 
 ## Thanks!
 
