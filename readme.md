@@ -10,6 +10,8 @@
   - [Tools](#tools)
   - [SDK and Samples](#sdk-and-samples)
   - [Articles Blogs Best-Practices etc](#articles-blogs-best-practices-etc)
+  - [DevOps](#devops)
+  - [Community](#community)
   - [Thanks!](#thanks)
   - [Contribute](#contribute)
   - [License](#license)
@@ -41,6 +43,14 @@
 - [WebAuthN](https://www.okta.com/security-blog/2019/09/passwordless-authentication-where-to-start/) Introduction
 - [Oauth2 with PKCE](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce) Someone say `SPA`?
 - [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
+
+## DevOps
+
+- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [repo](https://github.com/articulate/terraform-provider-okta)
+
+## Community
+
+- [Developer Forum](https://devforum.okta.com/)
 
 ## Thanks!
 
