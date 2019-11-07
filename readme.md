@@ -20,7 +20,9 @@
 
 ## Tools
 
-- [JSON Web Tokens Debugger](https://jwt.io) :heart: our friends at Auth0. :laughing:
+- [JSON Web tokens Debugger](https://www.jsonwebtoken.io/) :heart: :heart: :heart:
+- [Altnative JSON Web Tokens Debugger](https://jwt.io) :heart: our friends at Auth0. :laughing:
+- [OpenID Debugger](https://oidcdebugger.com/)
 - [Chrome: SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch?hl=en)
 - [Firefox: SAML Tracer](https://addons.mozilla.org/en-US/firefox/addon/saml-tracer/)
 - [Fiddler](https://www.telerik.com/fiddler)
