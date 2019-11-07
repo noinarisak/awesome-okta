@@ -1,16 +1,18 @@
-# awesome-okta [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Okta <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
->  A curated list of awesome Okta libraries, open source repos, guides, blogs and other resources.
-
+> A curated list of awesome Okta libraries, open source repos, guides, blogs and other resources.
 
 ## Contents
 
-- [Getting Started](#getting-started)
-- [Tools](#tools)
-- [SDK and Samples](#sdk-and-samples)
-- [Articles, Blogs, etc](#articles-blogs-etc)
-- [Thanks!](#thanks)
-- [Contributing](#contribute)
+- [Awesome Okta](#awesome-okta)
+  - [Contents](#contents)
+  - [Getting Started](#getting-started)
+  - [Tools](#tools)
+  - [SDK and Samples](#sdk-and-samples)
+  - [Articles Blogs Best-Practices etc](#articles-blogs-best-practices-etc)
+  - [Thanks!](#thanks)
+  - [Contribute](#contribute)
+  - [License](#license)
 
 ## Getting Started
 
@@ -19,6 +21,9 @@
 ## Tools
 
 - [JSON Web Tokens Debugger](https://jwt.io) :heart: our friends at Auth0. :laughing:
+- [Chrome: SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch?hl=en)
+- [Firefox: SAML Tracer](https://addons.mozilla.org/en-US/firefox/addon/saml-tracer/)
+- [Fiddler](https://www.telerik.com/fiddler)
 
 ## SDK and Samples
 
@@ -28,10 +33,12 @@
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
 - [Okta SDK Php](https://github.com/okta/okta-sdk-php)
 
-## Articles Blogs etc
+## Articles Blogs Best-Practices etc
 
 - [Oauth2 Simplified](https://aaronparecki.com/oauth-2-simplified/) Must read!
 - [WebAuthN](https://www.okta.com/security-blog/2019/09/passwordless-authentication-where-to-start/) Introduction
+- [Oauth2 with PKCE](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce) Someone say `SPA`?
+- [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
 
 ## Thanks!
 
