@@ -46,7 +46,7 @@
 
 ## DevOps
 
-- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [repo](https://github.com/articulate/terraform-provider-okta)
+- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta)
 
 ## Community
 
