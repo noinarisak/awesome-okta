@@ -19,6 +19,7 @@
 ## Getting Started
 
 - [Develper.okta.com](https://developer.okta.com/docs/)
+- [Learn about OAuth 2.0](/https://www.oauth.com/)
 
 ## Tools
 
@@ -40,6 +41,7 @@
 ## Articles Blogs Best-Practices etc
 
 - [Oauth2 Simplified](https://aaronparecki.com/oauth-2-simplified/) Must read!
+- [Learn about ]
 - [WebAuthN](https://www.okta.com/security-blog/2019/09/passwordless-authentication-where-to-start/) Introduction
 - [Oauth2 with PKCE](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce) Someone say `SPA`?
 - [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
