@@ -29,6 +29,7 @@
 - [Chrome: SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch?hl=en)
 - [Firefox: SAML Tracer](https://addons.mozilla.org/en-US/firefox/addon/saml-tracer/)
 - [Fiddler](https://www.telerik.com/fiddler)
+- [Postman](https://www.getpostman.com/)
 
 ## SDK and Samples
 
