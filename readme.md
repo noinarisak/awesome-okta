@@ -46,7 +46,7 @@
 - [WebAuthN](https://www.okta.com/security-blog/2019/09/passwordless-authentication-where-to-start/) Introduction
 - [Oauth2 with PKCE](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce) Someone say `SPA`?
 - [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
-- [Understand API Security Need OAuth or OIDC](https://devblog.axway.com/apis/understand-your-api-security-need-oauth-or-openid-connect)
+- [Understand your API Security needs OAuth or OIDC](https://devblog.axway.com/apis/understand-your-api-security-need-oauth-or-openid-connect)
 
 ## DevOps
 
