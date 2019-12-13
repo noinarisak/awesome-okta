@@ -30,6 +30,7 @@
 - [Firefox: SAML Tracer](https://addons.mozilla.org/en-US/firefox/addon/saml-tracer/)
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Postman](https://www.getpostman.com/)
+- [Rockstar](https://gabrielsroka.github.io/rockstar/) Browser tool to export Okta resouces. :metal:
 
 ## SDK and Samples
 
