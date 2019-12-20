@@ -40,6 +40,7 @@
 - [Okta SDK Java](https://github.com/okta/okta-sdk-java)
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
 - [Okta SDK Php](https://github.com/okta/okta-sdk-php)
+- [Okta Toolkit](https://toolkit.okta.com/apps/) A showcase of functional, open-source applications built using Okta.
 
 ## Articles Blogs Best-Practices etc
 
