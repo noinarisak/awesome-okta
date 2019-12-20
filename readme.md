@@ -31,6 +31,7 @@
 - [Fiddler](https://www.telerik.com/fiddler)
 - [Postman](https://www.getpostman.com/)
 - [Rockstar](https://gabrielsroka.github.io/rockstar/) Browser tool to export Okta resouces. :metal:
+- [Okta Powershell](https://github.com/gabrielsroka/OktaAPI.psm1) Thin wrapper around Okta API via PowerShell Module. 
 
 ## SDK and Samples
 
