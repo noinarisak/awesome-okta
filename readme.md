@@ -32,6 +32,7 @@
 - [Postman](https://www.getpostman.com/)
 - [Rockstar](https://gabrielsroka.github.io/rockstar/) Browser tool to export Okta resouces. :metal:
 - [Okta Powershell](https://github.com/gabrielsroka/OktaAPI.psm1) Thin wrapper around Okta API via PowerShell Module. 
+- [PassProtect](https://www.passprotect.io/) Chrome extension real-time validates if your password has been exposed in a data breach. :scream:
 
 ## SDK and Samples
 
