@@ -51,6 +51,7 @@
 - [Oauth2 with PKCE](https://developer.okta.com/blog/2019/08/22/okta-authjs-pkce) Someone say `SPA`?
 - [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
 - [Understand your API Security needs OAuth or OIDC](https://devblog.axway.com/apis/understand-your-api-security-need-oauth-or-openid-connect)
+- [Diagrams And Movies Of All The OAuth 2.0 Flows](https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85) 4 plus 1 authorization flows. If you are visually learner like me. :laughing: From our friends at Authlete.
 
 ## DevOps
 
