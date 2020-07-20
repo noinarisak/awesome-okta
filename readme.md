@@ -71,6 +71,9 @@
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
+## Share the Love
+
+Like this project? Please give it a ★ on our GitHub! (it helps us a lot)
 
 ## License
 
