@@ -56,10 +56,11 @@
 - [What is CIAM?](https://www.youtube.com/watch?v=sMfg7nu_7Xk)
 - [Understand your API Security needs OAuth or OIDC](https://devblog.axway.com/apis/understand-your-api-security-need-oauth-or-openid-connect)
 - [Diagrams And Movies Of All The OAuth 2.0 Flows](https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85) 4 plus 1 authorization flows. If you are visually learner like me. :laughing: From our friends at Authlete.
+- [Definitive Guide: User Migration](https://developer.okta.com/blog/2019/02/15/user-migration-the-definitive-guide) :warning: You’ll learn the best strategies and methods for migrating your user accounts from our esteem Dev Evangelist [Randall Degges](https://github.com/rdegges). 
 
 ## DevOps
 
-- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta)
+- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta) :camera: :star: *shameless plug: I'm the maintainer* :star: :camera:
 
 ## Community
 
