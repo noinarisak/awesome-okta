@@ -1,3 +1,6 @@
+[<img src="https://aws1.discourse-cdn.com/standard14/uploads/oktadev/original/1X/0c6402653dfb70edc661d4976a43a46f33e5e919.png" align="right" width="256px"/>](https://devforum.okta.com/)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 # Awesome Okta <!-- [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) -->
 
 > A curated list of awesome Okta libraries, open source repos, guides, blogs and other resources.
