@@ -40,7 +40,7 @@
 
 ## SDK and Samples
 
-- [Okta SDK Python](https://github.com/okta/okta-sdk-python) :warning: :construction: Alpha Preview :construction: :warning:
+- [Okta SDK Python](https://github.com/okta/okta-sdk-python)
 - [Okta SDK Dotnet](https://github.com/okta/okta-sdk-dotnet)
 - [Okta SDK Java](https://github.com/okta/okta-sdk-java)
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
