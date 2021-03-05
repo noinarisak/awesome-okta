@@ -5,6 +5,8 @@
 
 > A curated list of awesome Okta libraries, open source repos, guides, blogs and other resources.
 
+Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you navigate all things Okta! 
+
 ## Contents
 
 - [Awesome Okta](#awesome-okta)
@@ -40,12 +42,26 @@
 
 ## SDK and Samples
 
+### SDK 
+
 - [Okta SDK Python](https://github.com/okta/okta-sdk-python)
 - [Okta SDK Dotnet](https://github.com/okta/okta-sdk-dotnet)
 - [Okta SDK Java](https://github.com/okta/okta-sdk-java)
 - [Okta SDK NodeJS](https://github.com/okta/okta-sdk-nodejs)
 - [Okta SDK Php](https://github.com/okta/okta-sdk-php)
+- [Okta SDK Golang](https://github.com/okta/okta-sdk-golang)
+
+### JWT Verifier
+
+- [Okta JWT Verifier Java](https://github.com/okta/okta-jwt-verifier-java)
+- [Okta JWT Verifier Golang](https://github.com/okta/okta-jwt-verifier-golang)
+- [Okta JWT Verifier Php](https://github.com/okta/okta-jwt-verifier-php)
+- [Okta JWT Verifier Swift](https://github.com/okta/okta-ios-jwt)
+
+### Others
+
 - [Okta Toolkit](https://toolkit.okta.com/apps/) A showcase of functional, open-source applications built using Okta.
+- [Token.dev](https://token.dev/) Okta online tool to help understand and use Json Web Tokens. :star_struck:
 
 ## Articles Blogs Best-Practices etc
 
@@ -61,7 +77,7 @@
 
 ## DevOps
 
-- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta) :camera: :star: *shameless plug: I'm the maintainer* :star: :camera:
+- [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta) :camera: :star: *shameless plug: I'm the former maintainer* :star: :camera:
 
 ## Community
 
