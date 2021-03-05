@@ -28,7 +28,7 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 
 ## Tools
 
-- [JSON Web tokens Debugger](https://www.jsonwebtoken.io/) :heart: :heart: :heart:
+- [Token.dev](https://token.dev/) JSON Web Token online debugger. :heart: :heart: :heart:
 - [Altnative JSON Web Tokens Debugger](https://jwt.io) :heart: our friends at Auth0. :laughing:
 - [OpenID Debugger](https://oidcdebugger.com/)
 - [Chrome: SAML Tracer](https://chrome.google.com/webstore/detail/saml-tracer/mpdajninpobndbfcldcmbpnnbhibjmch?hl=en)
@@ -61,7 +61,6 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 ### Others
 
 - [Okta Toolkit](https://toolkit.okta.com/apps/) A showcase of functional, open-source applications built using Okta.
-- [Token.dev](https://token.dev/) Okta online tool to help understand and use Json Web Tokens. :star_struck:
 
 ## Articles Blogs Best-Practices etc
 
