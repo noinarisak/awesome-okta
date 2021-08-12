@@ -14,6 +14,7 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
   - [Getting Started](#getting-started)
   - [Tools](#tools)
   - [SDK and Samples](#sdk-and-samples)
+  - [Others](#others)
   - [Articles Blogs Best-Practices etc](#articles-blogs-best-practices-etc)
   - [DevOps](#devops)
   - [Community](#community)
@@ -58,10 +59,11 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 - [Okta JWT Verifier Php](https://github.com/okta/okta-jwt-verifier-php)
 - [Okta JWT Verifier Swift](https://github.com/okta/okta-ios-jwt)
 
-### Others
+## Others
 
 - [Okta Toolkit](https://toolkit.okta.com/apps/) A showcase of functional, open-source applications built using Okta.
-- [Okta MFA Anywhere](https://github.com/indranilokg/Okta-MFA-Everywhere) From my colleage [@indranilokg](https://github.com/indranilokg] demostrating Okta MFA with out our user store (aka Unverisal Directory)! Really kewl :exploding_head:
+- [Okta MFA Anywhere](https://github.com/indranilokg/Okta-MFA-Everywhere) From my colleage [@indranilokg](https://github.com/indranilokg) demostrating Okta MFA with out our user store (aka Unverisal Directory)! Really kewl :exploding_head:
+- [SAML Assertion Flow](https://github.com/emanor-okta/saml-assertion-flow-with-okta) - Golang demo/guide on how to implement a Okta SAML Assertion Flow. Thanks [@emanor](https://github.com/emanor-okta)!
 
 ## Articles Blogs Best-Practices etc
 
@@ -74,11 +76,8 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 - [Diagrams And Movies Of All The OAuth 2.0 Flows](https://medium.com/@darutk/diagrams-and-movies-of-all-the-oauth-2-0-flows-194f3c3ade85) - 4 plus 1 authorization flows. If you are visually learner like me. :laughing: From our friends at Authlete.
 - [Definitive Guide: User Migration](https://developer.okta.com/blog/2019/02/15/user-migration-the-definitive-guide) - :warning: You’ll learn the best strategies and methods for migrating your user accounts from our esteem Dev Evangelist [Randall Degges](https://github.com/rdegges). 
 - [Multi-Tenancy with Okta](https://docs.idp.rocks/) - Guidence and sample on implementing and architecting multitenancy with Okta. Authored by Okta Specialist team. :tada: :rocket: 
+  - Even better concept guide about Multi-Tenancy with Okta [here](https://developer.okta.com/docs/concepts/multi-tenancy/).   
 - [CIAM Cookbook](https://ciam.solutions) - Recipes ranging from simple snippets and examples around real-world CIAM use cases
-
-## Sample/Demo and Guides
-- [SAML Assertion Flow](https://github.com/emanor-okta/saml-assertion-flow-with-okta) - Golang dome/guide on how to implement a Okta SAML Assertion Flow. Thanks [@emanor](https://github.com/emanor-okta)!
-- [Okta MFA Everywhere](https://github.com/indranilokg/Okta-MFA-Everywhere) - Got own Identity service that you can't remove but you want to use Okta MFA, check out this guide! Kudos [@indranilokg](https://github.com/indranilokg)!
 
 ## DevOps
 
