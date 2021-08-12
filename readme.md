@@ -76,6 +76,10 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 - [Multi-Tenancy with Okta](https://docs.idp.rocks/) - Guidence and sample on implementing and architecting multitenancy with Okta. Authored by Okta Specialist team. :tada: :rocket: 
 - [CIAM Cookbook](https://ciam.solutions) - Recipes ranging from simple snippets and examples around real-world CIAM use cases
 
+## Sample/Demo and Guides
+- [SAML Assertion Flow](https://github.com/emanor-okta/saml-assertion-flow-with-okta) - Golang dome/guide on how to implement a Okta SAML Assertion Flow. Thanks [@emanor](https://github.com/emanor-okta)!
+- [Okta MFA Everywhere](https://github.com/indranilokg/Okta-MFA-Everywhere) - Got own Identity service that you can't remove but you want to use Okta MFA, check out this guide! Kudos [@indranilokg](https://github.com/indranilokg)!
+
 ## DevOps
 
 - [Hashicorp Terraform Okta Provider](https://www.terraform.io/docs/providers/okta/index.html) - Dude, do you even Automate? :laughing: [Da Repo](https://github.com/articulate/terraform-provider-okta) :camera: :star: *shameless plug: I'm the former maintainer* :star: :camera:
