@@ -40,6 +40,7 @@ Go ahead :star2: this repo, wouldn't hurt :wink:.  Especially if help you naviga
 - [Rockstar](https://gabrielsroka.github.io/rockstar/) - Browser tool to export Okta resouces. :metal:
 - [Okta Powershell](https://github.com/gabrielsroka/OktaAPI.psm1) - Thin wrapper around Okta API via PowerShell Module. 
 - [PassProtect](https://www.passprotect.io/) - Chrome extension real-time validates if your password has been exposed in a data breach. :scream:
+- [SAML Tester](https://saml-tester.compile7.org/) - A simple tool to test SAML and SCIM integration.
 
 ## SDK and Samples
 
